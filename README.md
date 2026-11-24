@@ -1,3 +1,13 @@
+<!-- fork-notice:start -->
+
+> **About this fork:** maintained copy of [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling), used for learning and integration. All credit for the original work goes to its authors. License: BSD-3-Clause (see `LICENSE`).
+>
+> **Live demo (upstream):** <https://scrapling.readthedocs.io/en/latest/>
+>
+> [![Standard CI](https://github.com/ArAryan1314/Scrapling/actions/workflows/standard-ci.yml/badge.svg)](https://github.com/ArAryan1314/Scrapling/actions/workflows/standard-ci.yml)
+
+<!-- fork-notice:end -->
+
 <!-- mcp-name: io.github.D4Vinci/Scrapling -->
 
 <h1 align="center">
